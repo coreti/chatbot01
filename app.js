@@ -1,8 +1,3 @@
-//This section list the required libraries
-var express = require("express");
-//Create an instance of express server
-var app = express();
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const functions = require('firebase-functions');
